@@ -61,11 +61,11 @@
       35,
       36
     ],
-    "visible_layers": "7fdffff_80000001",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Basic-150-MHz-Telemetry-Transmitter-SMD.kicad_prl",
+    "filename": "panelized.kicad_prl",
     "version": 3
   },
   "project": {
