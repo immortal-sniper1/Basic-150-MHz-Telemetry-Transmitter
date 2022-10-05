@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
-%TF.CreationDate,2022-07-15T22:26:08+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2022-10-05T07:51:38+03:00*%
 %TF.ProjectId,Basic-150-MHz-Telemetry-Transmitter-THT,42617369-632d-4313-9530-2d4d487a2d54,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-07-15 22:26:08*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-10-05 07:51:38*
 %MOMM*%
 %LPD*%
 G01*

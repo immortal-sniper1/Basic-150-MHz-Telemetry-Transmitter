@@ -1,30 +1,32 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
-%TF.CreationDate,2022-07-15T22:25:20+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2022-10-05T07:55:04+03:00*%
 %TF.ProjectId,Basic-150-MHz-Telemetry-Transmitter-SMD,42617369-632d-4313-9530-2d4d487a2d54,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-07-15 22:25:20*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-10-05 07:55:04*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-%ADD10R,1.700000X1.700000*%
-%ADD11O,1.700000X1.700000*%
+%ADD10C,1.700000*%
+%ADD11R,1.700000X1.700000*%
+%ADD12O,1.700000X1.700000*%
 G04 APERTURE END LIST*
 D10*
 %TO.C,J1*%
 X42246650Y-42359100D03*
 D11*
 X42246650Y-44899100D03*
+D12*
 X42246650Y-47439100D03*
 %TD*%
-D10*
+D11*
 %TO.C,J2*%
 X59772650Y-44884100D03*
-D11*
+D12*
 X59772650Y-42344100D03*
 %TD*%
 M02*

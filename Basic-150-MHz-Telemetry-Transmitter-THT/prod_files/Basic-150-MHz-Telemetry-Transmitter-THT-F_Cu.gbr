@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
-%TF.CreationDate,2022-07-15T22:26:07+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2022-10-05T07:51:38+03:00*%
 %TF.ProjectId,Basic-150-MHz-Telemetry-Transmitter-THT,42617369-632d-4313-9530-2d4d487a2d54,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-07-15 22:26:07*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-10-05 07:51:38*
 %MOMM*%
 %LPD*%
 G01*
@@ -38,8 +38,11 @@ G04 APERTURE LIST*
 %TA.AperFunction,ComponentPad*%
 %ADD18O,1.050000X1.500000*%
 %TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD19C,1.700000*%
+%TD*%
 %TA.AperFunction,Conductor*%
-%ADD19C,0.500000*%
+%ADD20C,0.500000*%
 %TD*%
 G04 APERTURE END LIST*
 D10*
@@ -131,19 +134,20 @@ X59182000Y-107910000D03*
 %TO.N,Net-(C1-Pad2)*%
 X59182000Y-102910000D03*
 %TD*%
-D13*
+D19*
 %TO.P,J1,1,Pin_1*%
 %TO.N,Net-(C1-Pad2)*%
 X54356000Y-99060000D03*
-D14*
+D13*
 %TO.P,J1,2,Pin_2*%
 %TO.N,GND*%
 X54356000Y-101600000D03*
+D14*
 %TO.P,J1,3,Pin_3*%
 %TO.N,data*%
 X54356000Y-104140000D03*
 %TD*%
-D19*
+D20*
 %TO.N,Net-(C1-Pad2)*%
 X58674000Y-98806000D02*
 X58674000Y-102402000D01*
